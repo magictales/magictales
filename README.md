@@ -46,16 +46,18 @@ I'm been practicing programming for over 7 years and I'm always learning and alw
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-✔️Shopify plus with Ruby script
+✔️ Shopify plus with Ruby script
 <br />
-✔️CRO AB test
+✔️ CRO AB test
 <br />
-✔️Speed/SEO speed optimization with Lighthouse, 
+✔️ Speed/SEO speed optimization with Lighthouse, 
 <br />
-✔️GTM,CRO pixel code integration
+✔️ GTM,CRO pixel code integration
 <br />
-✔️Shopify app integration(ReCharge, Metafield, etc).
+✔️ Shopify app integration(ReCharge, Metafield, etc).
 <br />
-✔️3rd party app integration(Landbot, Tidio, etc)
+✔️ 3rd party app integration(Landbot, Tidio, etc)
+<br />
+✔️ React/Vue.js
 <br />
  <!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
