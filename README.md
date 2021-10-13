@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=40&vCenter=true&width=850&height=60&lines=7%2B+years+of+hands-on+experience+in+programming;Shopify+Theme+Developer+%26+Frontend+Specialist;Shopify+plus+with+Ruby+script+%2F+CRO+AB+test;Speed%2FSEO+speed+optimization+with+Lighthouse;Shopify+app+integration(ReCharge%2C+Metafield%2C+etc);3rd+party+app+integration(Landbot%2C+Tidio%2C+etc))](https://git.io/typing-svg)
 <!--
 **magictales/magictales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +16,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have been working as **Shopify Theme Developer** and **Frontend Specialist** for over 💫_5+_ years.
+I'm been practicing programming for over 7 years and I'm always learning and always improving!
 
-✨Rich Experience in:
+📫 How to reach me: **Email**(toptalentdev@gmail.com) **Skype**(live:.cid.61aaa92e297e171e)
 
- ✔️Shopify plus with Ruby script
- ✔️CRO AB test
- ✔️Speed/SEO speed optimization with Lighthouse, 
- ✔️GTM,CRO pixel code integration
- ✔️Shopify app integration(ReCharge, Metafield, Product filter & search app), etc.
- ✔️3rd party app integration(Landbot, Tidio, etc)
+
+<div align="center">
+  <!-- <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/alchemist0404/alchemist0404?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/alchemist0404?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/alchemist0404?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/gists/alchemist0404?style=flat-square&color=black&logo=github">
+  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
+</div>
+
+## **What I can do**
+
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-![MagicTales's GitHub stats](https://github-readme-stats.vercel.app/api?username=magictales&show_icons=true&theme=radical)
+✔️Shopify plus with Ruby script
+<br />
+✔️CRO AB test
+<br />
+✔️Speed/SEO speed optimization with Lighthouse, 
+<br />
+✔️GTM,CRO pixel code integration
+<br />
+✔️Shopify app integration(ReCharge, Metafield, etc).
+<br />
+✔️3rd party app integration(Landbot, Tidio, etc)
+<br />
+ <!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
