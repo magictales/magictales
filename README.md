@@ -23,8 +23,8 @@ I'm been practicing programming for over 7 years and I'm always learning and alw
 
 📫 How to reach me: **Email**(toptalentdev@gmail.com) **Skype**(live:.cid.61aaa92e297e171e)
 
-![Ways-Shopify-Helps-You-To-Boost-Your-Business](https://user-images.githubusercontent.com/83643063/137196218-15e4b726-a0e5-4207-a838-62c1e556f4bf.png)
-
+![speed-up-your-web-and-make-it-load-under-3-sec-let-me-try](https://user-images.githubusercontent.com/83643063/137223808-b3a7993a-3880-426a-99de-036ca0d19969.jpg)
+  
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/alchemist0404/alchemist0404?style=flat-square&color=black&logo=github">
