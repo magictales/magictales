@@ -1,3 +1,6 @@
+![programming-wallpaper-4](https://user-images.githubusercontent.com/83643063/137196058-314308e8-dcd5-4943-a79c-88ac752b0915.jpg)
+
+
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=40&vCenter=true&width=850&height=60&lines=7%2B+years+of+hands-on+experience+in+programming;Shopify+Theme+Developer+%26+Frontend+Specialist;Shopify+plus+with+Ruby+script+%2F+CRO+AB+test;Speed%2FSEO+speed+optimization+with+Lighthouse;Shopify+app+integration(ReCharge%2C+Metafield%2C+etc);3rd+party+app+integration(Landbot%2C+Tidio%2C+etc))](https://git.io/typing-svg)
@@ -20,6 +23,7 @@ I'm been practicing programming for over 7 years and I'm always learning and alw
 
 📫 How to reach me: **Email**(toptalentdev@gmail.com) **Skype**(live:.cid.61aaa92e297e171e)
 
+![Ways-Shopify-Helps-You-To-Boost-Your-Business](https://user-images.githubusercontent.com/83643063/137196218-15e4b726-a0e5-4207-a838-62c1e556f4bf.png)
 
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
