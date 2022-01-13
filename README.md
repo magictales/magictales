@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm been practicing programming for over 7 years and I'm always learning and always improving!
 
 <p>📫 <strong>How to reach me:</strong></p>
-<p>📧 <strong>Email:</strong> toptalentdev@gmail.com</br>💬 <strong>Skype:</strong> live:.cid.61aaa92e297e171e</p>
+<p>📧 <strong>Email:</strong> magictales.dev@gmail.com</p>
 </br>
 </br>
 
