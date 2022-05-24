@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm been practicing programming for over 7 years and I'm always learning and always improving!
+Shopify & Frontend Specialist with 7+ years of experience.
 
-<p>📫 <strong>How to reach me:</strong></p>
-<p>📧 <strong>Email:</strong> magictales.dev@gmail.com</p>
-</br>
 </br>
 
 <table>
