@@ -1,6 +1,4 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=40&vCenter=true&width=850&height=60&lines=7%2B+years+of+hands-on+experience+in+programming;Shopify+Theme+Developer+%26+Frontend+Specialist;Shopify+plus+with+Ruby+script+%2F+CRO+AB+test;Speed%2FSEO+speed+optimization+with+Lighthouse;Shopify+app+integration(ReCharge%2C+Metafield%2C+etc);3rd+party+app+integration(Landbot%2C+Tidio%2C+etc))](https://git.io/typing-svg)
+# Hello, there!
 <!--
 **magictales/magictales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
