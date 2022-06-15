@@ -50,7 +50,6 @@ My primary objective is to help Shopify store owners achieve their goals by prov
  </br>
  ✔️ Vue JS
  </br>
- </br>
 
 <strong>Familiar with:</strong>
 </br>
