@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## **Passionate and highly-skilled Full-Stack Shopify Developer with more than 8 years of experience.**
+## **Passionate and highly-skilled Shopify Developer with more than 8 years of experience.**
 
 <div>
 My primary objective is to help Shopify store owners achieve their goals by providing on-time high quality work.
