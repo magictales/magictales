@@ -14,23 +14,72 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Shopify & Frontend Specialist with 7+ years of experience.
+## **Passionate and highly-skilled Full-Stack Shopify Developer with more than 8 years of experience.**
+
+<div>
+My primary objective is to help Shopify store owners achieve their goals by providing on-time high quality work.
+</br>
+</br>
+<strong>Rich Experience in:</strong>
+</br>
+ ✔️ Shopify plus with Ruby script
+ </br>
+ ✔️ CRO AB test
+ </br>
+ ✔️ Speed/SEO optimization with Lighthouse, 
+ </br>
+ ✔️ GTM,CRO(AB test) pixel code integration
+ </br>
+ ✔️ Shopify app integration(ReCharge, Metafield, Product filter & search app), etc.
+ </br>
+ ✔️ 3rd party app integration(Landbot, Tidio chat, etc)
+ </br>
+ </br>
+ 
+<strong>Highly skilled in:</strong>
+</br>
+ ✔️ HTML
+ </br>
+ ✔️ JavaScript
+ </br>
+ ✔️ CSS/SCSS
+ </br>
+ ✔️ Liquid Template
+ </br>
+ ✔️ React JS
+ </br>
+ ✔️ Vue JS
+ </br>
+ </br>
+
+<strong>Familiar with:</strong>
+</br>
+ ✔️ Shopify theme 2.0 / JSON / template structure (New version)
+ </br>
+ ✔️ Shopify Theme Builder & Compiling tools (ThemeKit, CLI, Gulp, Slate theme builder)
+ </br>
+ ✔️ VCS: Version Control System (Github, Gitlab)
+ </br>
+ ✔️ Communication Tools (Slack, Skype, Teams, Discord, etc)
+ </br>
+</br>
+I am always trying to take full responsibility for my actions, my words and promises all while trying to deliver best possible result from the work.
+</div>
 
 </br>
 
-<table>
+<!-- <table>
 <tbody>
   <tr>
     <td style="width: 50%;">
       <img src="https://user-images.githubusercontent.com/83643063/137224948-ee4962d2-a60a-4409-86d9-79960a72c400.png" width="600">      
     </td>
     <td style="width: 50%;">
-<!--       <img src="https://user-images.githubusercontent.com/83643063/137223808-b3a7993a-3880-426a-99de-036ca0d19969.jpg" width="600">   -->
       <img src="https://user-images.githubusercontent.com/83643063/137243258-1282be89-a4f0-4af5-bdb6-1f9198274cfa.jpg" width="600">  
     </td>
   </tr>    
 </tbody>
-</table>
+</table> -->
 
 <div style="display: flex;justify-content:space-between;align-items: center;">
   
@@ -50,26 +99,4 @@ Shopify & Frontend Specialist with 7+ years of experience.
     <img src="https://badges.pufler.dev/gists/alchemist0404?style=flat-square&color=black&logo=github">
   </a>
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
-</div>
-
-## **What I can do**
-
-<div>
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" /> -->
-<img align="right" src="https://user-images.githubusercontent.com/83643063/137241590-9faf9b66-d624-448f-86dd-10544fd7d6ae.png" width="400">
-✔️ Shopify plus with Ruby script
-<br />
-✔️ CRO AB test
-<br />
-✔️ Speed/SEO speed optimization with Lighthouse, 
-<br />
-✔️ GTM,CRO pixel code integration
-<br />
-✔️ Shopify app integration(ReCharge, Metafield, etc).
-<br />
-✔️ 3rd party app integration(Landbot, Tidio, etc)
-<br />
-✔️ React/Vue.js
-<br />
- <!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
 </div>
